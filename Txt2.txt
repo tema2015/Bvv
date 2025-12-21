@@ -1,0 +1,1 @@
+vless://c8f852d2-32ed-464c-8173-a536447e74c7@185.79.138.123:443?type=tcp&encryption=none&security=reality&pbk=bGECnZf1Q6tQOjKnVaBojS9mT0k1sDnX-1fJLFpI8w4&fp=chrome&sni=yandex.com&sid=76356466c88b76&spx=%2F&flow=xtls-rprx-vision#Finland%20%E2%84%962-EZvpn2
